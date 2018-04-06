@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConfigTransformationDemo", "WebConfigTransformationDemo\WebConfigTransformationDemo.csproj", "{44BE19AA-D751-44DF-BAE7-A211457A5721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Dev|Any CPU = Dev|Any CPU
+		Prod|Any CPU = Prod|Any CPU
+		QA|Any CPU = QA|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BE19AA-D751-44DF-BAE7-A211457A5721}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{44BE19AA-D751-44DF-BAE7-A211457A5721}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{44BE19AA-D751-44DF-BAE7-A211457A5721}.Prod|Any CPU.ActiveCfg = Prod|Any CPU
+		{44BE19AA-D751-44DF-BAE7-A211457A5721}.Prod|Any CPU.Build.0 = Prod|Any CPU
+		{44BE19AA-D751-44DF-BAE7-A211457A5721}.QA|Any CPU.ActiveCfg = QA|Any CPU
+		{44BE19AA-D751-44DF-BAE7-A211457A5721}.QA|Any CPU.Build.0 = QA|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
